@@ -6,9 +6,9 @@
     <p><b>Martin Bridgewater:</b> <a href="mailto:martin@tlcontracting.co.uk">martin@tlcontracting.co.uk</a></p>
 </article>
 <article>
-    <address><b><a href="http://www.tlcontracting.co.uk">TL Contracting Limited</a></b><br>
+    <address><b><a href="http://www.tlcontracting.co.uk/">TL Contracting Limited</a></b><br>
         34 Allington Rise<br>
         Sherfield Park, Hook<br>
-        Hampshire, RG24 8TE
+        Hampshire, RG27 0ST
     </address>
 </article>
