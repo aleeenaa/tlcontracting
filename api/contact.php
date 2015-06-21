@@ -1,5 +1,5 @@
 <article>
-    <p><b>Telephone:</b> 01256 843004</p>
+    <p><b>Telephone:</b>01256 843004</p>
     <p><b>Fax:</b> 01256 843005</p>
     <p><b>General Enquiries:</b> <a href="mailto:enquiries@tlcontracting.co.uk">enquiries@tlcontracting.co.uk</a></p>
     <p><b>Darrell Smith:</b> <a href="mailto:darrell@tlcontracting.co.uk">darrell@tlcontracting.co.uk</a></p>
