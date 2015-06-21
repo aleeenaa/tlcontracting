@@ -22,6 +22,7 @@
 				<li class="buttons"><a id="g-n-ce">Groundworks and Civil Engineering</a></li>
 				<li class="buttons"><a id="pcr-n-m">Property Construction, Renovation and Maintenance</a></li>
 				<li class="buttons"><a id="dw-n-p">Driveways and Paving</a></li>
+				<li class="buttons"><a id="gallery">Gallery</a></li>
 				<li class="buttons"><a id="contact">Contact Us</a></li>
 			</ul>
 	</nav>
